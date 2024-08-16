@@ -1,2 +1,4 @@
 # My-Python-Portfolio
-This Respoditory contains snippets from my Python skills
+- work in progress - 
+This Respoditory will contain snippets from my Python skills in future
+
